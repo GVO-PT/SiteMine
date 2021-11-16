@@ -21,9 +21,9 @@
 
 <h1 align="center"> Code Developers </h1>
 
-[Perfil do GitHub Throned47][GitHubDG]
+[Profile GitHub Throned47][GitHubDG]
 <br>
-[Perfil do GitHub JT-PT][GitHubJT]
+[Profile GitHub JT-PT][GitHubJT]
 
 
 
